@@ -1,0 +1,19 @@
+{
+  "name": "selam",
+  "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=web",
+    "build": "npm run build --workspace=web",
+    "preview": "npm run preview --workspace=web"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "framer-motion": "^12.29.0"
+  }
+}

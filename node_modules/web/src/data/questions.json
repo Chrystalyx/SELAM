@@ -1,0 +1,368 @@
+[
+    {
+        "id": 101,
+        "category": "pasangan",
+        "level": "permukaan",
+        "text": "Kalau kisah cinta kita dijadikan film, menurutmu genrenya apa? (Rom-com, Horror, atau Dokumenter Alam Liar?)"
+    },
+    {
+        "id": 102,
+        "category": "pasangan",
+        "level": "permukaan",
+        "text": "Satu kebiasaan anehku yang sebenernya bikin kamu ilfeel tapi kamu tahan-tahan demi cinta?"
+    },
+    {
+        "id": 103,
+        "category": "pasangan",
+        "level": "permukaan",
+        "text": "Jika kita bisa teleportasi sekarang cuma buat makan malam berdua, kita pergi ke mana?"
+    },
+    {
+        "id": 104,
+        "category": "pasangan",
+        "level": "permukaan",
+        "text": "Siapa di antara kita yang lebih mungkin bertahan hidup kalau tersesat di hutan Amazon?"
+    },
+    {
+        "id": 105,
+        "category": "pasangan",
+        "level": "permukaan",
+        "text": "Lagu apa yang kalau kamu denger, langsung otomatis ingat mukaku?"
+    },
+    {
+        "id": 106,
+        "category": "pasangan",
+        "level": "permukaan",
+        "text": "Kalau aku jadi penjahat di film, kira-kira apa nama samaranku?"
+    },
+    {
+        "id": 107,
+        "category": "pasangan",
+        "level": "terumbu",
+        "text": "Momen spesifik apa yang bikin kamu sadar: 'Oke, aku sayang sama orang ini'?"
+    },
+    {
+        "id": 108,
+        "category": "pasangan",
+        "level": "terumbu",
+        "text": "Apa 'Bahasa Cinta' (Love Language) yang sering aku kasih tapi jarang kamu sadari?"
+    },
+    {
+        "id": 109,
+        "category": "pasangan",
+        "level": "terumbu",
+        "text": "Hal apa dari hubungan orang tuamu yang ingin kamu tiru di hubungan kita, dan apa yang ingin kamu buang?"
+    },
+    {
+        "id": 110,
+        "category": "pasangan",
+        "level": "terumbu",
+        "text": "Apa satu pujian dariku yang sampai sekarang masih kamu ingat jelas?"
+    },
+    {
+        "id": 111,
+        "category": "pasangan",
+        "level": "terumbu",
+        "text": "Menurutmu, apa tantangan terbesar kita sebagai pasangan saat ini?"
+    },
+    {
+        "id": 112,
+        "category": "pasangan",
+        "level": "palung",
+        "text": "Kapan terakhir kali kamu merasa sendirian, padahal aku ada di sampingmu?"
+    },
+    {
+        "id": 113,
+        "category": "pasangan",
+        "level": "palung",
+        "text": "Ketakutan apa soal 'masa depan kita' yang sering menghantuimu sebelum tidur?"
+    },
+    {
+        "id": 114,
+        "category": "pasangan",
+        "level": "palung",
+        "text": "Jika suatu hari kita berpisah, apa satu hal dariku yang akan selalu membekas di ingatanmu?"
+    },
+    {
+        "id": 115,
+        "category": "pasangan",
+        "level": "palung",
+        "text": "Apakah kamu merasa aku sudah benar-benar mengenalmu, atau ada sisi dirimu yang masih kamu sembunyikan dariku?"
+    },
+    {
+        "id": 201,
+        "category": "teman",
+        "level": "permukaan",
+        "text": "Kalau ada Zombie Apocalypse, siapa di antara kita yang bakal mati duluan karena hal konyol?"
+    },
+    {
+        "id": 202,
+        "category": "teman",
+        "level": "permukaan",
+        "text": "Siapa artis atau tokoh fiksi yang cocok banget jadi musuh bebuyutanmu?"
+    },
+    {
+        "id": 203,
+        "category": "teman",
+        "level": "permukaan",
+        "text": "Hal paling memalukan apa yang pernah kamu lakukan demi terlihat keren di depan orang lain?"
+    },
+    {
+        "id": 204,
+        "category": "teman",
+        "level": "permukaan",
+        "text": "Kalau kita bikin geng kriminal, kira-kira tugas/role aku di geng itu ngapain? (Supir, Hacker, atau Umpan?)"
+    },
+    {
+        "id": 205,
+        "category": "teman",
+        "level": "permukaan",
+        "text": "Kalau kamu harus nikah sama salah satu orang di antara kita demi uang 1 Milyar, pilih siapa?"
+    },
+    {
+        "id": 206,
+        "category": "teman",
+        "level": "permukaan",
+        "text": "Barang termurah apa yang kamu beli tapi paling bikin kamu bahagia?"
+    },
+    {
+        "id": 207,
+        "category": "teman",
+        "level": "terumbu",
+        "text": "Apa impresi pertamamu ke aku dulu, dan seberapa salah impresi itu sekarang?"
+    },
+    {
+        "id": 208,
+        "category": "teman",
+        "level": "terumbu",
+        "text": "Kalau aku tiba-tiba berubah jadi jahat, menurutmu apa alasannya?"
+    },
+    {
+        "id": 209,
+        "category": "teman",
+        "level": "terumbu",
+        "text": "Sifat apa dari diriku yang kadang bikin kamu capek, tapi nggak enak mau ngomong?"
+    },
+    {
+        "id": 210,
+        "category": "teman",
+        "level": "terumbu",
+        "text": "Menurutmu, apa kelebihanmu yang sering diremehkan orang lain?"
+    },
+    {
+        "id": 211,
+        "category": "teman",
+        "level": "terumbu",
+        "text": "Momen apa bareng kita yang bakal kamu ceritain ke anak cucumu nanti?"
+    },
+    {
+        "id": 212,
+        "category": "teman",
+        "level": "palung",
+        "text": "Pernah nggak kamu merasa iri sama pencapaianku? Kapan?"
+    },
+    {
+        "id": 213,
+        "category": "teman",
+        "level": "palung",
+        "text": "Apa satu rahasia tentangmu yang kamu takut bakal mengubah cara pandangku ke kamu kalau aku tahu?"
+    },
+    {
+        "id": 214,
+        "category": "teman",
+        "level": "palung",
+        "text": "Di titik terendahmu tahun ini, apa yang sebenarnya kamu butuhkan dari seorang teman?"
+    },
+    {
+        "id": 215,
+        "category": "teman",
+        "level": "palung",
+        "text": "Apakah kamu merasa kesepian meskipun punya banyak teman?"
+    },
+    {
+        "id": 301,
+        "category": "keluarga",
+        "level": "permukaan",
+        "text": "Makanan rumah apa yang kalau kamu cium baunya, langsung otomatis ingat masa kecil?"
+    },
+    {
+        "id": 302,
+        "category": "keluarga",
+        "level": "permukaan",
+        "text": "Siapa 'anak emas' di keluarga ini sebenarnya? Jujur aja."
+    },
+    {
+        "id": 303,
+        "category": "keluarga",
+        "level": "permukaan",
+        "text": "Kebiasaan aneh keluarga kita yang baru kamu sadari itu 'nggak normal' pas main ke rumah orang lain?"
+    },
+    {
+        "id": 304,
+        "category": "keluarga",
+        "level": "permukaan",
+        "text": "Siapa anggota keluarga yang paling enak diajak ghibah?"
+    },
+    {
+        "id": 305,
+        "category": "keluarga",
+        "level": "permukaan",
+        "text": "Kalau keluarga kita bikin Reality Show TV, apa judulnya?"
+    },
+    {
+        "id": 306,
+        "category": "keluarga",
+        "level": "permukaan",
+        "text": "Mainan masa kecil apa yang paling kamu kangenin?"
+    },
+    {
+        "id": 307,
+        "category": "keluarga",
+        "level": "terumbu",
+        "text": "Pelajaran hidup apa yang orang tua ajarkan mati-matian, tapi justru kalian langgar sendiri?"
+    },
+    {
+        "id": 308,
+        "category": "keluarga",
+        "level": "terumbu",
+        "text": "Momen apa di masa kecil yang menurutmu paling membentuk karaktermu sekarang?"
+    },
+    {
+        "id": 309,
+        "category": "keluarga",
+        "level": "terumbu",
+        "text": "Sifat apa dari Ayah/Ibu yang kamu harap TIDAK menurun ke kamu?"
+    },
+    {
+        "id": 310,
+        "category": "keluarga",
+        "level": "terumbu",
+        "text": "Apa hal yang paling kamu syukuri dari cara kita dibesarkan?"
+    },
+    {
+        "id": 311,
+        "category": "keluarga",
+        "level": "terumbu",
+        "text": "Kapan pertama kali kamu sadar kalau orang tua kita juga manusia biasa yang bisa salah?"
+    },
+    {
+        "id": 312,
+        "category": "keluarga",
+        "level": "palung",
+        "text": "Apa satu hal yang ingin kamu sampaikan ke orang tua, tapi gengsi atau takut?"
+    },
+    {
+        "id": 313,
+        "category": "keluarga",
+        "level": "palung",
+        "text": "Pernahkah kamu diam-diam merasa menjadi beban bagi keluarga ini?"
+    },
+    {
+        "id": 314,
+        "category": "keluarga",
+        "level": "palung",
+        "text": "Jika orang tua kita bukan orang tuamu, apakah kamu akan tetap memilih berteman dengan mereka?"
+    },
+    {
+        "id": 315,
+        "category": "keluarga",
+        "level": "palung",
+        "text": "Apa luka masa kecil yang belum sembuh sampai hari ini?"
+    },
+    {
+        "id": 401,
+        "category": "deep-talk",
+        "level": "permukaan",
+        "text": "Kalau binatang bisa bicara, spesies mana yang menurutmu paling kasar omongannya?"
+    },
+    {
+        "id": 402,
+        "category": "deep-talk",
+        "level": "permukaan",
+        "text": "Jika kamu bisa memilih umur berapa kamu mati, kamu pilih umur berapa?"
+    },
+    {
+        "id": 403,
+        "category": "deep-talk",
+        "level": "permukaan",
+        "text": "Apa teori konspirasi konyol yang diem-diem kamu percayai?"
+    },
+    {
+        "id": 404,
+        "category": "deep-talk",
+        "level": "permukaan",
+        "text": "Kalau hidupmu adalah sebuah buku, apa judul Bab saat ini?"
+    },
+    {
+        "id": 405,
+        "category": "deep-talk",
+        "level": "permukaan",
+        "text": "Jika alien datang menjemputmu, kamu mau ikut atau tetap di Bumi?"
+    },
+    {
+        "id": 406,
+        "category": "deep-talk",
+        "level": "permukaan",
+        "text": "Kalau kamu bisa makan malam sama satu orang yang sudah meninggal, siapa dia?"
+    },
+    {
+        "id": 407,
+        "category": "deep-talk",
+        "level": "terumbu",
+        "text": "Jika kamu bisa melihat statistik hidupmu di atas kepalamu, angka apa yang ingin kamu lihat? (Misal: Jumlah orang yang tersenyum karenamu)."
+    },
+    {
+        "id": 408,
+        "category": "deep-talk",
+        "level": "terumbu",
+        "text": "Apa penyesalan kecil yang masih sering terlintas di pikiranmu saat mandi/melamun?"
+    },
+    {
+        "id": 409,
+        "category": "deep-talk",
+        "level": "terumbu",
+        "text": "Coba definisikan arti kata 'Bahagia' versi kamu tanpa menggunakan kata 'Uang' atau 'Cinta'."
+    },
+    {
+        "id": 410,
+        "category": "deep-talk",
+        "level": "terumbu",
+        "text": "Apa nasihat yang sering kamu kasih ke orang lain, tapi susah kamu terapkan ke diri sendiri?"
+    },
+    {
+        "id": 411,
+        "category": "deep-talk",
+        "level": "terumbu",
+        "text": "Hal apa yang dulu kamu anggap penting banget, tapi sekarang terasa nggak ada artinya?"
+    },
+    {
+        "id": 412,
+        "category": "deep-talk",
+        "level": "palung",
+        "text": "Jika kesedihan punya wujud fisik, benda apa yang kamu simpan di saku celanamu hari ini?"
+    },
+    {
+        "id": 413,
+        "category": "deep-talk",
+        "level": "palung",
+        "text": "Apa kebohongan terbesar yang terus-menerus kamu ceritakan pada dirimu sendiri?"
+    },
+    {
+        "id": 414,
+        "category": "deep-talk",
+        "level": "palung",
+        "text": "Jika hari ini adalah halaman terakhir bukumu, apakah ceritanya berakhir happy ending? Jika tidak, apa yang harus diubah?"
+    },
+    {
+        "id": 415,
+        "category": "deep-talk",
+        "level": "palung",
+        "text": "Apakah kamu percaya manusia pada dasarnya baik, atau pada dasarnya jahat?"
+    },
+    {
+        "id": 416,
+        "category": "deep-talk",
+        "level": "palung",
+        "text": "Kalau surga itu ada, apa pertanyaan pertamamu kepada Tuhan?"
+    }
+]
